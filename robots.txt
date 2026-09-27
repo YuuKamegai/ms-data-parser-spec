@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuukamegai.github.io/ms-data-parser-spec/sitemap.xml
