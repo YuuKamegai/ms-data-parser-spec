@@ -7,4 +7,4 @@ MS-DIAL の出力を LLM から解析する MCP サーバ **ms-data-parser**（[
 
 - `index.html` は 1 ファイルで完結します（フォントのみ Google Fonts から読み込み）。
 - 図中の「例示」と付いた数値・化合物名は説明用の架空の値です。
-- 基準: Metabolomix_with_LLM `main@c67b632`（2026-10-06）。
+- 基準: Metabolomix_with_LLM `main@c748b0c`（2026-10-06）。
